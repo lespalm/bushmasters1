@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">Bush Master"'s"</string>
+    <string name="biz_card">Business Card</string>
+    <string name="landscaping">Landscaping</string>
+    <string name="btn_grassCutting">Grass Cutting</string>
+    <string name="btn_shrub_bed">Shrub and Bed Needs</string>
+    <string name="grassText">Grass cutting is an effective way to
+        promote growth and keep your lawn looking great.
+        It’s important, though, to make sure you’re mowing
+        properly, as it can either help or hurt your lawn
+        depending on how it is done. Many problems with lawns
+        are caused, simply, by poor mowing practices — mowing
+        too short, mowing with dull blades, mowing infrequently,
+        or cutting too much at once.</string>
+    <string name="shrub_bed_text">When it comes to hedge and shrub maintenance,
+        you can look at regular care —such as pruning shrubs, trimming shrubs,
+        trimming bushes, and trimming hedges— as a chore or you can look at it
+        as a creative outlet. Many new gardeners don’t feel they are up to the
+        task of trimming hedges and put it off. Rather than put off hedge and
+        shrub maintenance, it’s much better if you start pruning shrubs right
+        away when they are young and then continue to do minor annual pruning
+        each year. If you allow them to become overgrown, they’ll end up needing
+        major renewal pruning. Pruning shrubs regularly also helps promote healthier
+        shrubs that produce more blooms.</string>
+    <string name="projects_we_maintain">Projects we Maintain</string>
+    <string name="project_one">Project One</string>
+    <string name="project_two_a">Project Two</string>
+    <string name="serving">Serving Baltimore County Maryland</string>
+    <string name="contact_us">Contact Us \n 410"-"776"-"8527 \n Hours of Operation \n Monday"-"Saturday \n 6:00am"-"6:00pm</string>
+
+</resources>
